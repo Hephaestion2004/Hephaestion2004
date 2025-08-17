@@ -3,4 +3,6 @@
 
                           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&duration=4200&pause=1&color=E1A66E&width=435&lines=%40keithaustinn" alt="Typing SVG" /></a>
 
+                             [read](https://keithaustinn.straw.page/)
+
                       (will have it's own read me TRUST.)
